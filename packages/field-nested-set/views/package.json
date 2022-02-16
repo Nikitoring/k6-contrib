@@ -1,0 +1,4 @@
+{
+  "main": "dist/fields-nested-set.cjs.js",
+  "module": "dist/fields-nested-set.esm.js"
+}
